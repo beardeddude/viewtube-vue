@@ -6707,7 +6707,7 @@ __metadata:
     sass-loader: 10.3.1
     tippy.js: 6.3.7
     typed-vuex: 0.3.1
-    typescript: 4.5.5
+    typescript: 4.7.4
     unplugin-vue2-script-setup: 0.11.0
     vue: 2.6.14
     vue-material-design-icons: 5.1.1
@@ -16879,7 +16879,7 @@ __metadata:
     ts-jest: 28.0.5
     ts-loader: 9.3.1
     tslib: 2.4.0
-    typescript: 4.5.5
+    typescript: 4.7.4
     undici: 5.6.1
     web-push: 3.5.0
     webpack: 5.72.0
@@ -16966,7 +16966,7 @@ __metadata:
     class-validator: 0.13.2
     reflect-metadata: 0.1.13
     rxjs: 7.5.5
-    typescript: 4.5.5
+    typescript: 4.7.4
   languageName: unknown
   linkType: soft
 
@@ -18429,16 +18429,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:4.5.5":
-  version: 4.5.5
-  resolution: "typescript@npm:4.5.5"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: 506f4c919dc8aeaafa92068c997f1d213b9df4d9756d0fae1a1e7ab66b585ab3498050e236113a1c9e57ee08c21ec6814ca7a7f61378c058d79af50a4b1f5a5e
-  languageName: node
-  linkType: hard
-
 "typescript@npm:4.7.4":
   version: 4.7.4
   resolution: "typescript@npm:4.7.4"
@@ -18466,16 +18456,6 @@ __metadata:
     tsc: bin/tsc
     tsserver: bin/tsserver
   checksum: 89c397df192f239359ad798b96d8e8d552e12c0c189ac5676cec4c20c410d6eec636b8e59a88f2aef0a56d961a9678d99c400099be9b7cae2f7b062eb4b7b171
-  languageName: node
-  linkType: hard
-
-"typescript@patch:typescript@4.5.5#~builtin<compat/typescript>":
-  version: 4.5.5
-  resolution: "typescript@patch:typescript@npm%3A4.5.5#~builtin<compat/typescript>::version=4.5.5&hash=493e53"
-  bin:
-    tsc: bin/tsc
-    tsserver: bin/tsserver
-  checksum: c05c318d79c690f101d7ffb34cd6c7d6bbd884d3af9cefe7749ad0cd6be43c7082f098280982ca945dcba23fde34a08fed9602bb26540936baf8c0520727d3ba
   languageName: node
   linkType: hard
 
@@ -18986,7 +18966,7 @@ __metadata:
     eslint-import-resolver-node: 0.3.6
     jest: 28.1.2
     prettier: 2.7.1
-    typescript: 4.5.5
+    typescript: 4.7.4
     vls: 0.7.6
     vue: 2.6.14
   languageName: unknown
